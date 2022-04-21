@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "corporate.account.number",
+  "type": "java.lang.String",
+  "description": "A description for 'corporate.account.number'"
+}]}
